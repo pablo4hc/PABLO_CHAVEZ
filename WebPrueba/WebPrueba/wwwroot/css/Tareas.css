@@ -1,0 +1,64 @@
+﻿.tabla_tareas thead tr th:nth-child(1), .tabla_tareas tbody tr td:nth-child(1) {
+    width: 50px !important;
+    min-width: 50px !important;
+    max-width: 50px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+
+.tabla_tareas thead tr th:nth-child(2), .tabla_tareas tbody tr td:nth-child(2) {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+.tabla_tareas thead tr th:nth-child(3), .tabla_tareas tbody tr td:nth-child(3) {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+
+.tabla_tareas thead tr th:nth-child(4), .tabla_tareas tbody tr td:nth-child(4) {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+.tabla_tareas thead tr th:nth-child(5), .tabla_tareas tbody tr td:nth-child(5) {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+
+.tabla_tareas thead tr th:nth-child(6), .tabla_tareas tbody tr td:nth-child(6) {
+    width: 50px !important;
+    min-width: 50px !important;
+    max-width: 50px !important;
+    word-break: break-all !important;
+    text-align: center !important;
+    padding: 5px !important;
+    overflow: hidden;
+    font-size: 12px
+}
+

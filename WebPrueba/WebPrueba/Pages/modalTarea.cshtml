@@ -1,0 +1,58 @@
+﻿<div id="modalTarea" class="modalDis modal fade bd-example" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" id="modalTituloTarea"></h6>
+                <button id="btnSalir" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="btnsCreacion" class="barra-herramientas-modal">
+                    <a href="javascript:void(0);" id="btnSalir" title="Salir">
+                        <div class="col-4">
+                            <label id="btnActualizar" class="btn btn-primary btn-sm">Actualizar</label>
+                        </div>
+                    </a>
+                    
+                </div>
+                <div id="MBC_PanelBusqueda">
+                    <form>
+                        <div class="form-group" hidden>    
+                            <input type="text" class="form-control" id="txtId">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtTitulo">Título</label>
+                            <input type="text" class="form-control" id="txtTitulo" placeholder="Ingrese Título">
+                            <span id="lblTitulo" class="etiqueta_Error"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtDescripcion">Descripción</label>
+                            <input type="text" class="form-control" id="txtDescripcion" placeholder="Ingrese desripción">
+                            <span id="lblDescripcion" class="etiqueta_Error"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtFechaCreacion">Fecha creación</label>
+                            <input type="date" class="form-control" id="txtFechaCreacion" placeholder="Ingrese fecha de creación">
+                            <span id="lblFechaCreacion" class="etiqueta_Error"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtFechaVencimiento">Fecha vencimiento</label>
+                            <input type="date" class="form-control" id="txtFechaVencimiento" placeholder="Ingrese fecha de caducidad">
+                            <span id="lblFechaCaducidad" class="etiqueta_Error"></span>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="checkCompletada">
+                            <label class="form-check-label" for="checkCompletada">Completada</label>
+                        </div>
+                     
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+}
