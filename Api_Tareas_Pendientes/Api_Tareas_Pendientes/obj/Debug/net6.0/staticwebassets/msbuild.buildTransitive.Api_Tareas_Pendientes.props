@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Api_Tareas_Pendientes.props" />
-</Project>

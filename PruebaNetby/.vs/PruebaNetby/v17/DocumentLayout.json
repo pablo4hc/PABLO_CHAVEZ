@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\wwwroot\\js\\tareas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\wwwroot\\js\\tareas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\wwwroot\\css\\tareas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\wwwroot\\css\\tareas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\migrations\\20241127201716_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\migrations\\20241127201716_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|c:\\users\\desarrollo14\\source\\repos\\pruebanetby\\pruebanetby\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C73FCB5-D42B-4F74-A235-56DF7C2E2659}|PruebaNetby\\PruebaNetby.csproj|solutionrelative:pruebanetby\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaNetby\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:59:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PruebaNetby\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PruebaNetby\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T20:29:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PruebaNetby\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PruebaNetby\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T20:26:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tareas.css",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\css\\Tareas.css",
+              "RelativeDocumentMoniker": "PruebaNetby\\wwwroot\\css\\Tareas.css",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\css\\Tareas.css",
+              "RelativeToolTip": "PruebaNetby\\wwwroot\\css\\Tareas.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T20:25:56.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tareas.js",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\js\\Tareas.js",
+              "RelativeDocumentMoniker": "PruebaNetby\\wwwroot\\js\\Tareas.js",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\js\\Tareas.js",
+              "RelativeToolTip": "PruebaNetby\\wwwroot\\js\\Tareas.js",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T20:25:23.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PruebaNetby\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PruebaNetby\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T20:24:57.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaNetby\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PruebaNetby\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T20:24:14.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaNetby\\Views\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Views\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "PruebaNetby\\Views\\Tareas\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T20:23:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241127201716_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Migrations\\20241127201716_Initial.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Migrations\\20241127201716_Initial.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Migrations\\20241127201716_Initial.cs",
+              "RelativeToolTip": "PruebaNetby\\Migrations\\20241127201716_Initial.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:17:17.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaNetby\\appsettings.json",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\appsettings.json",
+              "RelativeToolTip": "PruebaNetby\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T19:03:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PruebaNetby\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:02:48.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "PruebaNetby\\Controllers\\TareasController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:01:04.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\Usuario.cs",
+              "RelativeToolTip": "PruebaNetby\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:51:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\Tareas.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Models\\Tareas.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\Tareas.cs",
+              "RelativeToolTip": "PruebaNetby\\Models\\Tareas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:51:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaNetby\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:50:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaNetby\\Program.cs",
+              "ToolTip": "C:\\Users\\Desarrollo14\\source\\repos\\PruebaNetby\\PruebaNetby\\Program.cs",
+              "RelativeToolTip": "PruebaNetby\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:10:48.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
